@@ -1,4 +1,4 @@
-### How to install HugeShop
+### How to install Mediamarket
 
 #### Method 1: ArenaThemes Install App
 
@@ -34,7 +34,7 @@
 
 * ##### **Upload your new theme package**
 
-  * If you purchased your theme from [themeforest.net](https://www.themeforest.net/) you'll receive your theme as a .zip file named something like hugeshop.v1.0.0.zip.
+  * If you purchased your theme from [themeforest.net](https://www.themeforest.net/) you'll receive your theme as a .zip file named something like mediamarket.v1.0.0.zip.
   * **Please extract the zip file you downloaded from ThemeForest, then go to "upload" folder and upload any zip file there**  
     ![](/assets/extract.png)If you dont know how to do that you can [refer to this link](https://arenathemes.freshdesk.com/support/solutions/articles/6000177905-how-to-fix-shopify-theme-upload-error-arenathemes)
 
@@ -56,7 +56,7 @@ Please read more information about importing and exporting products at [Importin
 
 ##### Please refer to the installation manual at [https://help.shopify.com/manual/apps/working-with-apps\#install-an-app](https://help.shopify.com/manual/apps/working-with-apps#install-an-app)
 
-Hugeshop support 6 Shopify Apps below:
+Mediamarket support 6 Shopify Apps below:
 
 * Arena Wishlist Shopify App - [Click here to Install ](/Click here to Install)
 
