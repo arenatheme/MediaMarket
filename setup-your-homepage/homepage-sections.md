@@ -51,6 +51,7 @@ Sliders can be used on all kind of websites however they’re most commonly used
 * Image
 
 * Video: Go to Settings &gt; Files &gt; click 'Upload files' to upload your video, then copy the url and paste to here to display video in slide
+
 * Link
 * Text Layer Content
 
@@ -73,11 +74,12 @@ Sliders can be used on all kind of websites however they’re most commonly used
   ##### 3.2.1. Products Listing
 
   Display products are selected from the collection in the form of vertical column.  
-  ![](/assets/Product Grid - option.png)**Settings**
+  ![](/assets/mediamarket-product-listing.png)**Settings**
 
 * Lazyload: Apply lazyload effect for product image display
 
 * Layout: Box/Wide
+
 * Limited products for each collection: the number of products display each column.
 
   **More Settings \(Theme Settings\)**
@@ -93,6 +95,7 @@ Sliders can be used on all kind of websites however they’re most commonly used
   $$(Limited Items : Number of Items per row) <1$$
 
 * Grid: when you select **Limited items &gt; Number of items per row **and **Type = Row**
+
 * Slide: when you select **Type = Carousel**
 
   **Setting**
@@ -100,6 +103,7 @@ Sliders can be used on all kind of websites however they’re most commonly used
 * Layout : Box / Wide
 
 * Type: Row / Carousel
+
 * Padding
 * Borders
 * Text Options
@@ -109,6 +113,7 @@ Sliders can be used on all kind of websites however they’re most commonly used
 * Style Options: Icon, Style, Hover Effect, Add to cart buttons
 
 * Product Vendor: Display Product Vendor tag
+
 * Color Swatch: Display Color Swatch
 * Metafields Description Excerpt: c\_f.description\_excerpt: Display Short Desciption Content in Meta Field
 * Product Review
@@ -120,7 +125,7 @@ Sliders can be used on all kind of websites however they’re most commonly used
 ##### 3.2.3. Product Tabs
 
 Display products are selected from the multi-collection in the form of multi-tab  
-   ![](/assets/Product Tab.png)  
+   ![](/assets/section-product-tab.png)  
 **Setting**
 
 * Layout : Box / Wide
@@ -143,8 +148,7 @@ Display products are selected from the multi-collection in the form of multi-tab
 
 ### 4. INFORMATION
 
-
-
 ### 5. ADVANTAGE LAYOUT
 
 [^1]: Some options here may effect to global website: collection page, product page.
+
