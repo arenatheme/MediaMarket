@@ -6,7 +6,7 @@ Fixed blocks are exactly what you’d guess they are—components that are fixed
 
 #### **Header**
 
-The header is the rectangular area that runs across the top of your store containing your**logo, navigation, currency converter**,**account login, and cart, search**. It appears on every page and is intended to be used to promote your company's brand and make it instantly recognizable to your visitors. This is a static block and cannot be repositioned.
+The header is the rectangular area that runs across the top of your store containing your **logo, navigation, currency converter**,**account login, and cart, search**. It appears on every page and is intended to be used to promote your company's brand and make it instantly recognizable to your visitors. This is a static block and cannot be repositioned.
 
 ##### **Logo: **
 
@@ -14,9 +14,9 @@ Your store’s logo provides branding for your site and a clickable link to retu
 
 ##### **Search:**
 
-A search form is very important to the website to help customers find products. We have built a**smart ajax search**function with the ability to**automatically suggest products**when typing 2 characters in the search form.
+A search form is very important to the website to help customers find products. We have built a **smart ajax search **function with the ability to **automatically suggest products **when typing 2 characters in the search form.
 
-You can change**Search icon**or turn of**Smart Ajax Search** at **Theme Setting &gt; Header &gt;Block Search**
+You can change**Search icon **or turn of**Smart Ajax Search** at **Theme Setting &gt; Header &gt;Block Search**
 
 ##### **Multi-Currency Converter**
 
@@ -28,9 +28,9 @@ You can set currency converter at**Theme Setting &gt; Top Bar &gt;Multi-Currency
 
 The cart page shows a summary of all of the products that a customer has added to the cart, a subtotal and a total price for the order, and a Checkout button that directs customers to Shopify's secure checkout pages. When no products have been added, the empty cart page shows a Continue shopping link that takes customers back to view your products. You can edit the settings and add new features to your store's cart page to suit the needs of your business.
 
-**Setting Cart**available at **Theme Setting &gt; Cart.**You can change shopping cart icon, add to cart effect on desktop switch between default effect \(Dropdown - show product dropdown from the cart icon\) and Off-Canvas \(Show product added to cart in an off-canvas sidebar\)
+**Setting Cart **available at **Theme Setting &gt; Cart.**You can change shopping cart icon, add to cart effect on desktop switch between default effect \(Dropdown - show product dropdown from the cart icon\) and Off-Canvas \(Show product added to cart in an off-canvas sidebar\)
 
-You also could change  setting to open order notes on cart page & redirect to shopify cart page when click add to cart function \(Add to cart redirect option\)
+You also could change  setting to open order notes on cart page & redirect to Shopify cart page when click add to cart function \(Add to cart redirect option\)
 
 ##### **Mega Navigation**
 
@@ -49,3 +49,4 @@ Like a footer on a document or report, a website footer contains the information
 **MediaMarket **homepage sections are dynamic, meaning you can add as many of them as you want and rearrange them in the sidebar to create a completely unique layout. Out of the box, your theme has several dynamic sections enabled already. These are merely suggestions for how you might structure your homepage. Don’t want to include a section? Delete it! \(By clicking on it and clicking Delete section at the bottom.\) Want to include something that isn’t already there? Click Add section and find it on the list.
 
 By default, when you install with install apps, your homepage will be added sections as our demos. In order to customize with your style please read more detail of each section supported by the theme.
+
