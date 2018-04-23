@@ -1,6 +1,6 @@
 ### 1.SEPERATOR
 
-Seperator Sections are used for the purpose of creating Whitespaces, Heading Titles in the layout.![](/assets/spacing.png)
+Seperator Sections are used for the purpose of creating Whitespaces, Heading Titles in the layout.![](/assets/mediamarket-spacing.png)
 
 **General Setting for Section**:
 
@@ -53,6 +53,7 @@ Sliders can be used on all kind of websites however they’re most commonly used
 * Video: Go to Settings &gt; Files &gt; click 'Upload files' to upload your video, then copy the url and paste to here to display video in slide
 
 * Link
+
 * Text Layer Content
 
   You may add **maximum 6** **slideshow** **content**.
@@ -89,7 +90,7 @@ Sliders can be used on all kind of websites however they’re most commonly used
   ##### 3.2.2. Products Grid
 
   Display product images selected by grid \(or horizontal line\)  
-  ![](/assets/Product Grid - option.png)Product Grid Sections may display product image depend on Type
+  ![](/assets/product-grid.png)Product Grid Sections may display product image depend on Type
 
 * One Horizontal Row:  when you select  **Limited items &gt; Number of items per row** and **Type = Row**  
   $$(Limited Items : Number of Items per row) <1$$
@@ -105,6 +106,7 @@ Sliders can be used on all kind of websites however they’re most commonly used
 * Type: Row / Carousel
 
 * Padding
+
 * Borders
 * Text Options
 
@@ -115,6 +117,7 @@ Sliders can be used on all kind of websites however they’re most commonly used
 * Product Vendor: Display Product Vendor tag
 
 * Color Swatch: Display Color Swatch
+
 * Metafields Description Excerpt: c\_f.description\_excerpt: Display Short Desciption Content in Meta Field
 * Product Review
 * Label Settings
