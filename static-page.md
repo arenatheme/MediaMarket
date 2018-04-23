@@ -10,7 +10,7 @@ We'll cover the settings for these below.
 
 * **Create a new page**
 
-From your Shopify admin, navigate to Online store&gt;Pages. Click the Add page button to open a new page template.
+From your Shopify admin, navigate to Online store &gt; Pages. Click the Add page button to open a new page template.
 
 ![](https://www.pixelunion.net/wp-content/uploads/2016/08/Screen-Shot-2016-10-28-at-1.15.19-PM.png)
 
