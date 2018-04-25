@@ -41,7 +41,7 @@
   * Go to your Shopify admin dashboard and navigate to **Online Store&gt;Themes.**
 
   * Then click Upload theme in the top-right corner. Select your theme file from your computer and click Upload.  
-    **Only select one package at upload folder from the folder you was extracted.    
+    **Only select one package at upload folder from the folder you was extracted.      
     **![](/assets/folder.png)  
     ![](/assets/select.png)
 
@@ -115,6 +115,20 @@ Please refer to the user manual at:[https://freakdesign-us.s3.amazonaws.com/shop
    > > * value: Add your product handle \#2
 5. Use Custom Field to import data to the product
    ![](/assets/custom field.png)
+
+* ##### Update theme settings as demo
+
+The Edit code page lets you edit the code files that make up your theme.   
+From your Shopify admin, go to Online Store &gt; Themes. For the theme that you want to edit, click Actions, then click Edit code.  
+![](https://help.shopify.com/assets/images/manual/customize/click-edit-html-css.png?1524598788)
+
+On the **Edit code **page, you can edit the existing files, and add new ones. The page shows a directory of theme files and an online code editor:
+
+Go to** Config &gt; settings\_schema.json **and replace code with one pre-setting file we included at **folder pre-setting**
+
+![](/assets/presetting.png)
+
+![](/assets/replace-code.png)
 
 
 
