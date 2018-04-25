@@ -36,14 +36,15 @@
 
   * If you purchased your theme from [themeforest.net](https://www.themeforest.net/) you'll receive your theme as a .zip file named something like mediamarket.v1.0.0.zip.
   * **Please extract the zip file you downloaded from ThemeForest, then go to "upload" folder and upload any zip file there**  
-    ![](/assets/extract.png)If you dont know how to do that you can [refer to this link](https://arenathemes.freshdesk.com/support/solutions/articles/6000177905-how-to-fix-shopify-theme-upload-error-arenathemes)
+    ![](/assets/file-unzip.png)  
+    If you dont know how to do that you can [refer to this link](https://arenathemes.freshdesk.com/support/solutions/articles/6000177905-how-to-fix-shopify-theme-upload-error-arenathemes)
 
   * Go to your Shopify admin dashboard and navigate to **Online Store&gt;Themes.**
 
   * Then click Upload theme in the top-right corner. Select your theme file from your computer and click Upload.  
-    **Only select one package at upload folder from the folder you was extracted.      
-    **![](/assets/folder.png)  
-    ![](/assets/select.png)
+    **Only select one package at upload folder from the folder you was extracted.        
+    **![](/assets/upload-folder.png)  
+    ![](/assets/upload-theme.png)
 
   * Your new theme will show up below your current theme.
 
@@ -113,12 +114,12 @@ Please refer to the user manual at:[https://freakdesign-us.s3.amazonaws.com/shop
    > > * namespace: c\_f
    > > * key: buy\_with\_2
    > > * value: Add your product handle \#2
-5. Use Custom Field to import data to the product
+5. Use Custom Field to import data to the product  
    ![](/assets/custom field.png)
 
-* ##### Update theme settings as demo
+6. ##### Update theme settings as demo
 
-The Edit code page lets you edit the code files that make up your theme.   
+The Edit code page lets you edit the code files that make up your theme.  
 From your Shopify admin, go to Online Store &gt; Themes. For the theme that you want to edit, click Actions, then click Edit code.  
 ![](https://help.shopify.com/assets/images/manual/customize/click-edit-html-css.png?1524598788)
 
@@ -129,6 +130,4 @@ Go to** Config &gt; settings\_schema.json **and replace code with one pre-settin
 ![](/assets/presetting.png)
 
 ![](/assets/replace-code.png)
-
-
 
